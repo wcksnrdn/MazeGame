@@ -1,0 +1,9 @@
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas_Bebas.Form1.resources
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas_Bebas.Resources.resources
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas Bebas.vbproj.GenerateResource.Cache
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\bin\Debug\Tugas Bebas.exe
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\bin\Debug\Tugas Bebas.pdb
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\bin\Debug\Tugas Bebas.xml
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas Bebas.exe
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas Bebas.xml
+C:\Users\wiwim\AppData\Local\Temporary Projects\Tugas Bebas\obj\x86\Debug\Tugas Bebas.pdb

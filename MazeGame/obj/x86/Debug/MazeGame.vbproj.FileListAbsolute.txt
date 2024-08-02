@@ -1,0 +1,11 @@
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\bin\Debug\MazeGame.xml
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\Tugas_Bebas.Game.resources
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\Tugas_Bebas.MazeGame.resources
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\Tugas_Bebas.Resources.resources
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\MazeGame.vbproj.GenerateResource.Cache
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\MazeGame.exe
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\MazeGame.xml
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\MazeGame.pdb
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\MazeGame\MazeGame\obj\x86\Debug\MazeGame.vbprojResolveAssemblyReference.cache
